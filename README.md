@@ -1,1 +1,3 @@
-# repo9
+# maven-project
+
+Simple Maven Project
